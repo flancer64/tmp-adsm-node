@@ -29,4 +29,3 @@ composer install
 ```sh
 composer run-script start
 ```
-
