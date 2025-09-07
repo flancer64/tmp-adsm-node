@@ -1,15 +1,32 @@
 # HelloWorld
 
-This project prints a greeting to the console.
+This repository contains simple programs that print a greeting to the console.
 
-## Installation
+## Node.js
+
+### Installation
 
 ```sh
 npm install
 ```
 
-## Usage
+### Usage
 
 ```sh
 npm start
 ```
+
+## PHP
+
+### Installation
+
+```sh
+composer install
+```
+
+### Usage
+
+```sh
+composer run-script start
+```
+
