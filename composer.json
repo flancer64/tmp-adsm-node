@@ -1,0 +1,12 @@
+{
+    "name": "helloworld/helloworld",
+    "description": "Simple PHP console application that prints a greeting.",
+    "version": "1.0.0",
+    "license": "Apache-2.0",
+    "require": {
+        "php": "^8.1"
+    },
+    "scripts": {
+        "start": "php src/index.php"
+    }
+}
