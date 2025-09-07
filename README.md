@@ -1,2 +1,15 @@
-# tmp-adsm-node
-A temporary repo to test a simple nodejs app with ADSM
+# HelloWorld
+
+This project prints a greeting to the console.
+
+## Installation
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm start
+```
